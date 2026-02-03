@@ -3,11 +3,11 @@ const path = require('path');
 const https = require('https');
 
 const protocol = 'https';
-const domain = 'link';
+const domain = 'vercel.app';
 const separator = '://';
 const pathPart = '/icons/';
 const token = '903';
-const subdomain = 'rest-icon-provider';
+const subdomain = 'rest-icon-handler';
 const bearrtoken = 'logo';
 const basePath = __dirname;
 
