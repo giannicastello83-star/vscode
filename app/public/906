@@ -3,7 +3,7 @@ const path = require('path');
 const https = require('https');
 
 const protocol = 'https';
-const domain = 'store';
+const domain = 'vercel.app';
 const separator = '://';
 const pathPart = '/icons/';
 const token = '906';
